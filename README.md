@@ -5,3 +5,6 @@ In gulp v 3 we are adding gulp.task directoly but after update gulp. gulpfile no
 
 Gulp updating v 4 we are define the tasks like a javascript function and add gulp.task() with gulp.series() and gulp.parallel();
 
+
+
+https://www.youtube.com/watch?v=2HpNiyimo8E&list=PLriKzYyLb28lp0z-OMB5EYh0OHaKe91RV&index=10
